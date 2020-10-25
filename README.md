@@ -28,13 +28,13 @@ The ending locations and the starting locations are similar density-wise. This l
 
 The trip duration peaked between the 3rd and 8th hours of the day.
 
-#### Part 4
+#### Part 4: Checkout times by Gender
 
 ![Part_4](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_4.png)
 
 The number of male riders significantly outnumber the female riders.
 
-#### Part 5
+#### Part 5: Trips by Weekday
 
 ![Part_5](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_5.png)
 
@@ -42,7 +42,7 @@ During the work week, many users seem to be active during commutes.
 
 On the weekends, the usage is more evenly distributed throughout the day.
 
-#### Part 6
+#### Part 6: Trips by Weekday and Gender
 
 ![Part_6](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_6.png)
 
@@ -50,11 +50,11 @@ Men seem to be much more active commuters than women.
 
 We will need to determine the number of potential commuters in our hometown to determine for this to be successful.
 
-#### Part 7
+#### Part 7: Trips by Usertype, Weekday, and Gender
 
 ![Part_7](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_7.png)
 
-Most of the rides are coming from male subscribers.
+Most of the rides are coming from male subscribers during the work week.
 
 ### Summary
 
