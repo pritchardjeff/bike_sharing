@@ -12,22 +12,35 @@ The analysis is done in tableau and the visualizations will be explained in the 
 
 #### Part 1: Starting Locations
 
+![Part_1](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_1.png)
+
 The bulk of the starting locations are concentrated around Manhattan, so we will need to determine the most densily populated part of our home town in order to mirror similar results.
 
 #### Part 2: Ending Locations
+
+![Part_2](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_2.png)
 
 The ending locations and the starting locations are similar density-wise. This leads us to believe that we may a high population of commuters in the city.
 
 #### Part 3: Checkout times for Users
 
+![Part_3](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_3.png)
 
 #### Part 4
 
+![Part_4](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_4.png)
+
 #### Part 5
+
+![Part_5](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_5.png)
 
 #### Part 6
 
+![Part_6](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_6.png)
+
 #### Part 7
+
+![Part_7](https://github.com/pritchardjeff/bike_sharing/blob/main/Part_7.png)
 
 ### Summary
 
